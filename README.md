@@ -28,13 +28,6 @@ Software Engineer focused on systems programming, backend development, and low-l
 
 ---
 
-## 📌 Featured Projects
-- 🔹 **Custom Shell** — Unix-like shell with parsing, pipes, redirections, and env handling  
-- 🔹 **Philosophers** — Concurrency simulation using threads, mutexes, and semaphores  
-- 🔹 **Web Server** — HTTP server built from scratch in C++ with socket programming  
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AimadBifkirn&show_icons=true&theme=tokyonight" />
