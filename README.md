@@ -43,14 +43,6 @@ Software Engineer focused on systems programming, backend development, and low-l
 
 ---
 
-## 🎯 Current Focus
-- Systems programming & Linux internals
-- Backend architecture and APIs
-- Concurrency and performance optimization
-- Building real-world backend services
-
----
-
 <p align="center">
 💡 "Understand the system, don't just use it."
 </p>
