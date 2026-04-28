@@ -3,11 +3,8 @@
 
 ---
 
-## 🚀 About Me
-- 💻 Passionate about **systems programming, backend engineering, and low-level software**
-- 🛠️ Focused on building software from scratch to understand how it really works
-- 📚 Interested in **performance, architecture, and concurrency**
-- 🎯 Goal: Write efficient, reliable, and scalable systems
+## About Me
+Software Engineer focused on systems programming, backend development, and low-level software.
 
 ---
 
