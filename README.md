@@ -42,7 +42,3 @@ Software Engineer focused on systems programming, backend development, and low-l
 </p>
 
 ---
-
-<p align="center">
-💡 "Understand the system, don't just use it."
-</p>
