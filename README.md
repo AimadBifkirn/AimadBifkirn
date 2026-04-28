@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aimad</h1>
-<h3 align="center">Software Engineer | Problem Solver | Systems Enthusiast</h3>
+<h3 align="center">Software Engineer | Systems & Backend Engineer</h3>
 
 ---
 
 ## 🚀 About Me
-- 💻 Passionate about **systems programming & backend development**
-- 🛠️ Currently working on **low-level projects and custom implementations**
-- 📚 Always learning and exploring **performance, architecture, and clean code**
-- 🎯 Goal: Build efficient, scalable, and elegant software
+- 💻 Passionate about **systems programming, backend engineering, and low-level software**
+- 🛠️ Focused on building software from scratch to understand how it really works
+- 📚 Interested in **performance, architecture, and concurrency**
+- 🎯 Goal: Write efficient, reliable, and scalable systems
 
 ---
 
@@ -16,42 +16,44 @@
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
-- 🔹 **Custom Shell** — Built a mini Unix shell with parsing, redirections, and environment handling  
-- 🔹 **Philosophers** — Solved concurrency problems using threads & processes  
-- 🔹 **Web Server** — Developed an HTTP server from scratch in C++  
+- 🔹 **Custom Shell** — Unix-like shell with parsing, pipes, redirections, and env handling  
+- 🔹 **Philosophers** — Concurrency simulation using threads, mutexes, and semaphores  
+- 🔹 **Web Server** — HTTP server built from scratch in C++ with socket programming  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AimadBifkirn&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimadBifkirn&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=AimadBifkirn&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimadBifkirn&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🎯 Current Focus
+- Systems programming & Linux internals
+- Backend architecture and APIs
+- Concurrency and performance optimization
+- Building real-world backend services
 
 ---
 
 <p align="center">
-  💡 "Code is not just instructions, it's a craft."
+💡 "Understand the system, don't just use it."
 </p>
