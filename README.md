@@ -8,7 +8,7 @@ Software Engineer focused on systems programming, backend development, and low-l
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -28,7 +28,7 @@ Software Engineer focused on systems programming, backend development, and low-l
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AimadBifkirn&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimadBifkirn&layout=compact&theme=tokyonight" />
