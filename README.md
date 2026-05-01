@@ -30,8 +30,6 @@ Software Engineer focused on systems programming, backend development, and low-l
 
 ## GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AimadBifkirn&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimadBifkirn&layout=compact&theme=tokyonight" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=AimadBifkirn&show_icons=true&theme=tokyonight" /> -->
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimadBifkirn&layout=compact&theme=tokyonight" />
 </p>
-
----
