@@ -26,10 +26,3 @@ Software Engineer focused on systems programming, backend development, and low-l
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## GitHub Stats
-<p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=AimadBifkirn&show_icons=true&theme=tokyonight" /> -->
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimadBifkirn&layout=compact&theme=tokyonight" />
-</p>
