@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-Software Engineer focused on systems programming, backend development, and low-level software.
+Software Engineer focused on systems programming, backend development.
 
 ---
 
